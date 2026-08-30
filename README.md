@@ -1,1 +1,1 @@
-# ecg-arrhythmia-classifier
+# ecg-abnormality-classifier
